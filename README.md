@@ -40,6 +40,9 @@ Das Projekt ist in mehrere Klassen unterteilt, die jeweils für bestimmte Funkti
 - Währungsumrechnung
 - Benutzeroberflächen (Screens)
 
+## Namenskonvention
+Alle Klassen beginnen mit dem Präfix "cls", um die Lesbarkeit und Struktur des Codes zu verbessern
+
 ## Ausführung
 1. Projekt in Visual Studio öffnen
 2. Projekt kompilieren (Build)
