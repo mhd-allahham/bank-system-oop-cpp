@@ -1,0 +1,9 @@
+.vs/
+x64/
+Debug/
+*.user
+*.ipch
+*.obj
+*.tlog
+*.pdb
+*.exe
