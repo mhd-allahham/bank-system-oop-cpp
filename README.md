@@ -5,6 +5,9 @@ Dieses Projekt ist ein konsolenbasiertes Bankensystem, das in C++ unter Verwendu
 
 Das System simuliert reale Bankoperationen und bietet eine strukturierte und modulare Architektur durch die Verwendung von Klassen.
 
+## Projektziel
+Ziel dieses Projekts war es, praktische Erfahrungen in der objektorientierten Programmierung zu sammeln sowie die Strukturierung komplexer Softwareprojekte zu erlernen.
+
 ## Funktionen
 - Kunden hinzufügen, bearbeiten und löschen
 - Kunden suchen
